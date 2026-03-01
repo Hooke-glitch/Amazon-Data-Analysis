@@ -15,7 +15,6 @@ The objective of this project is to analyze Amazon product sales and discount da
 6. What is the distribution of products across different discount ranges (0–10%, 10–20%, etc.)?
 7. Which discount range contains the highest number of products?
 
-- Dashboard Interaction <a href="[https://github.com/Hooke-glitch/Amazon-Data-Analysis/blob/main/amazon_project.jpeg?raw=true" style="max-width: 100%;](https://github.com/Hooke-glitch/Amazon-Data-Analysis/blob/main/amzon%20dashboard.png)">View Dashboard</a>
 
 ## Process
 
