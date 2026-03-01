@@ -22,6 +22,74 @@ The objective of this project is to analyze Amazon product sales and discount da
 - Made sure data is consistent and clean with respect to data type, data format and values used.
 - Created pivot tables according to the questions asked.
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic.
+- Great 👍 I’ll write a clean and professional **Process section** for your GitHub README based on your Amazon dashboard project.
+
+You can copy and paste this directly.
+
+---
+
+## Process
+
+### 1️⃣ Data Collection
+
+* Imported the unclean Amazon CSV dataset into Excel.
+* Reviewed all columns including Product Name, Category, Price, Discount Percentage, Rating, and Rating Count.
+
+---
+
+### 2️⃣ Data Cleaning
+
+* Removed currency symbols (₹) from the Price column.
+* Removed percentage symbols (%) from the Discount column.
+* Converted Price and Discount columns to numeric format.
+* remove 8 columns which are about_product,user_id,user_name,review_id,review_title,review_content,img_link & product_link because its provide no insights.
+* Checked and handled missing values.
+* Removed duplicate records.
+* Standardized column names for easier analysis.
+
+
+### 3️⃣ Data Transformation
+
+* Generated calculated metrics such as:
+
+  * Average Discount
+  * Maximum Discount
+  * Total Product Count
+
+
+### 4️⃣ Data Analysis
+
+* Created Pivot Tables to:
+  
+  * Count products by category
+  * Identify Top 10 highest-priced products
+  * Analyze discount distribution
+  * Discount percentage groups (0–10%, 10–20%, … 90–100%).
+    
+* Calculated key performance indicators (KPIs):
+
+  * Total Products: 1,465
+  * Average Discount: 47.69%
+  * Maximum Discount: 94%
+    
+
+### 5️⃣ Dashboard Development
+
+* Designed a dashboard in Excel.
+* Added KPI cards for quick insights.
+* Included:
+
+  * Bar chart for Top 10 highest-priced products
+  * Column chart for Top categories
+  * Pie chart for Discount distribution
+
+
+### 6️⃣ Insight Generation
+
+* Analyzed pricing and discount strategy.
+* Identified dominant categories.
+* Evaluated distribution of discount ranges.
+* Derived business insights from visualizations.
 
 ## Dashboard
 
