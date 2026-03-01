@@ -25,7 +25,7 @@ The objective of this project is to analyze Amazon product sales and discount da
 
 ## Dashboard
 
-[https://github.com/Hooke-glitch/Amazon-Data-Analysis/blob/main/amazon_project.jpeg?raw=true"]
+![Amazon Dashboard](amazon_project.jpeg)
 
 ## Project Insight
 
