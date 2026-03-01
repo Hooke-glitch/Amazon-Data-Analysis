@@ -7,17 +7,15 @@ The objective of this project is to analyze Amazon product sales and discount da
 - <a href="https://www.kaggle.com/code/ziad217/amazon-sales">Dataset</a>
 
 ## Questions (KPIs)
-- Compare the sales and orders using single chart.
-- Which month got the highest sales and orders?
-- Who purchased more - Men or Women?
-- What are different order status in 2022?
-- List top 10 states contributingto the sales?
-- Relation between age and gender based on number of orders.
-- Which Channel is contributing maximum to the sales?
-- Highest selling category?
-- Percentage of Total Orders delivered
+1. What is the total number of products available in the dataset?
+2. What is the average discount percentage offered across all products?
+3. What is the maximum discount percentage provided?
+4. Which are the Top 10 highest-priced products?
+5. Which categories contribute the highest number of products?
+6. What is the distribution of products across different discount ranges (0–10%, 10–20%, etc.)?
+7. Which discount range contains the highest number of products?
 
-- Dashboard Interaction <a href="https://github.com/ritikbh193/Data-Analytics-with-Excel/blob/main/Dashboard_Image.png">View Dashboard</a>
+- Dashboard Interaction <a href="https://github.com/Hooke-glitch/Amazon-Data-Analysis/blob/main/amazon_project.jpeg?raw=true" style="max-width: 100%;">">View Dashboard</a>
 
 ## Process
 - Verify data for any missing values and anomalies, and sort out the same.
