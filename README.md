@@ -23,7 +23,6 @@ The objective of this project is to analyze Amazon product sales and discount da
 * Imported the unclean Amazon CSV dataset into Excel.
 * Reviewed all columns including Product Name, Category, Price, Discount Percentage, Rating, and Rating Count.
 
----
 
 ### 2️⃣ Data Cleaning
 
@@ -49,7 +48,6 @@ The objective of this project is to analyze Amazon product sales and discount da
 
 * Created Pivot Tables to:
   
-  * Count products by category
   * Identify Top 10 highest-priced products
   * Analyze discount distribution
   * Discount percentage groups (0–10%, 10–20%, … 90–100%).
