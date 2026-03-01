@@ -17,7 +17,6 @@ The objective of this project is to analyze Amazon product sales and discount da
 
 - Dashboard Interaction <a href="[https://github.com/Hooke-glitch/Amazon-Data-Analysis/blob/main/amazon_project.jpeg?raw=true" style="max-width: 100%;](https://github.com/Hooke-glitch/Amazon-Data-Analysis/blob/main/amzon%20dashboard.png)">View Dashboard</a>
 
-
 ## Process
 
 ### 1️⃣ Data Collection
@@ -83,7 +82,8 @@ The objective of this project is to analyze Amazon product sales and discount da
 
 ## Dashboard
 
-![Amazon Dashboard]([amazon_p.jpeg](https://github.com/Hooke-glitch/Amazon-Data-Analysis/blob/main/amzon%20dashboard.png)
+![Amazon Dashboard](https://github.com/Hooke-glitch/Amazon-Data-Analysis/blob/main/amzon%20dashboard.png)
+
 
 ## Project Insight
 
