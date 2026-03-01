@@ -17,16 +17,6 @@ The objective of this project is to analyze Amazon product sales and discount da
 
 - Dashboard Interaction <a href="https://github.com/Hooke-glitch/Amazon-Data-Analysis/blob/main/amazon_project.jpeg?raw=true" style="max-width: 100%;">View Dashboard</a>
 
-## Process
-- Verify data for any missing values and anomalies, and sort out the same.
-- Made sure data is consistent and clean with respect to data type, data format and values used.
-- Created pivot tables according to the questions asked.
-- Merge all pivot tables into one dashboard and apply slicer to make dynamic.
-- Great 👍 I’ll write a clean and professional **Process section** for your GitHub README based on your Amazon dashboard project.
-
-You can copy and paste this directly.
-
----
 
 ## Process
 
