@@ -4,7 +4,7 @@
 The objective of this project is to analyze Amazon product sales and discount data using an unclean CSV dataset and transform it into a meaningful interactive dashboard.
 
 ## Dataset used
-- <a href="(https://www.kaggle.com/code/ziad217/amazon-sales)">Dataset</a>
+- <a href="https://www.kaggle.com/code/ziad217/amazon-sales">Dataset</a>
 
 ## Questions (KPIs)
 - Compare the sales and orders using single chart.
